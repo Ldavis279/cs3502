@@ -1,3 +1,8 @@
+/*
+ * Name: Logan Davis
+ * Course: CS 3502 - Operating Systems
+ * Professor: Christopher Regan
+ */
 // ============================================
 // producer.c - Producer process starter
 // ============================================
@@ -135,3 +140,4 @@ printf("Producer %d: Finished producing %d items\n", producer_id, num_items);
     cleanup();
     return 0;
 }
+
