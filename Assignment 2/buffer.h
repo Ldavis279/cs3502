@@ -1,3 +1,8 @@
+/*
+ * Name: Logan Davis
+ * Course: CS 3502 - Operating Systems
+ * Professor: Christopher Regan
+ */
 // ============================================
 // buffer.h - Shared definitions (INCOMPLETE - You must complete this!)
 // ============================================
@@ -44,3 +49,4 @@ typedef struct {
 
 
 #endif
+
