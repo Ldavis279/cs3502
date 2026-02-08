@@ -1,3 +1,8 @@
+/*
+ * Name: Logan Davis
+ * Course: CS 3502 - Operating Systems
+ * Professor: Christopher Regan
+ */
 // ============================================
 // consumer.c - Consumer process starter
 // ============================================
@@ -118,3 +123,4 @@ int main(int argc, char* argv[]) {
     cleanup();
     return 0;
 }
+
