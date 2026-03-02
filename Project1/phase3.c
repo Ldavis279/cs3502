@@ -38,7 +38,7 @@ void initialize_accounts () {
     pthread_mutex_init(&accounts[i].lock , NULL ) ;
     }
 }
-
+//this is the code provided
 /*
 // GIVEN : Conceptual example showing HOW deadlock occurs
 void transfer_deadlock_example (int from_id, int to_id, double amount){
