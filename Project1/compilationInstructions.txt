@@ -1,0 +1,23 @@
+Compilation and Run Instructions
+
+This project has four phases coded in C and uses threads
+
+You will need: GCC compiler and POSIX thread support (-pthread)
+
+
+Compile Each Phase
+
+Run the following commands in the project directory:
+
+gcc -Wall -Wextra -pthread phase1.c -o phase1
+gcc -Wall -Wextra -pthread phase2.c -o phase2
+gcc -Wall -Wextra -pthread phase3.c -o phase3
+gcc -Wall -Wextra -pthread phase4.c -o phase4
+
+
+This is the commands to runs each program
+
+./phase1
+./phase2
+./phase3
+./phase4
