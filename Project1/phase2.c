@@ -29,7 +29,7 @@ Account accounts [ NUM_ACCOUNTS ];
 
 
 //Tracks changes to verify 
-
+//Will see  what changes happened
  static double total_deposited = 0.0;
  static double total_withdrawn = 0.0;
 
