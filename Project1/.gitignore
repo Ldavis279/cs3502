@@ -1,0 +1,20 @@
+# Compiled executables
+phase1
+phase2
+phase3
+phase4
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Vim swap files
+*.swp
+*.swo
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
