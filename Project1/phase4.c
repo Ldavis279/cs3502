@@ -12,6 +12,8 @@
 #define NUM_ACCOUNTS 2
 #define INITIAL_BALANCE 1000.0
 
+
+//structure for account
 typedef struct {
     int account_id;
     double balance;
