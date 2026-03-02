@@ -27,7 +27,7 @@ Account accounts [ NUM_ACCOUNTS ];
 
 
 
-//tracks changes toi account for  final check
+//tracks changes to account for  final check to compare
 static double total_deposited = 0.0;
 static double total_withdrawn  = 0.0;
 
